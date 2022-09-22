@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlinka
 - 👀 I’m interested in Developpement 
-- 🌱 I’m currently learning Python/CSS
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me @vlinka_
 
